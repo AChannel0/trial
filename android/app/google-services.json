@@ -1,0 +1,31 @@
+{
+    "project_info": {
+        "project_number": "294373203792",
+        "project_id": "cereus-28195",
+        "storage_bucket": "cereus-28195.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:294373203792:android:f23479db6f8a7afb975655",
+            "android_client_info": {
+                "package_name": "com.example.cereus"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "294373203792-s6mfc1id3lj0dc124pk7tp4ngn7dkmep.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyDInBtm9i9-SEL3NRvmK2NQ_TSJutjrbfw"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "294373203792-s6mfc1id3lj0dc124pk7tp4ngn7dkmep.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
